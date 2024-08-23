@@ -22,11 +22,11 @@ const perguntas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativas: [
             {
-                texto: "Não ocorrer mais enchentes mas, em troca, você não pode mais ir para a praia",
+                texto: "Não ocorrer mais enchentes mas, em troca, você não pode mais ir para a praia?",
                 afirmacao: "Parabéns a prevenção de enchentes evitaria danos econômicos e perda de vidas, além de proteger ecossistemas e propriedades.",
             },
             {
-                texto: "Acabar com o desmatamento do Mundo mas, troca, o Leonardo de Caprio nunca mais faz filme",
+                texto: "Acabar com o desmatamento do Mundo mas, troca, o Leonardo de Caprio nunca mais faz filme?",
                 afirmacao:"Parabéns a eliminação do desmatamento teria um impacto ambiental extremamente positivo, preservando habitats naturais, combatendo as mudanças climáticas e protegendo espécies ameaçadas.",
             },
         ]
@@ -35,11 +35,11 @@ const perguntas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativas: [
             {
-                texto: "Ter o celular mais top do Mundo mas você não tem internet fora de casa mas, em troca, você teria que aceitar a implementação de uma vigilância constante em todos os dispositivos conectados à internet",
+                texto: "Ter o celular mais top do Mundo mas você não tem internet fora de casa mas, em troca, você teria que aceitar a implementação de uma vigilância constante em todos os dispositivos conectados à internet?",
                 afirmacao: "Parabéns a falta de internet fora de casa limitaria severamente a utilidade do celular, tornando-o quase inútil em muitos cenários do dia a dia, como navegação, comunicação e trabalho remoto.",
             },
             {
-                texto: "Dar um celular para todos as pessoas mas, em troca, você nunca mais terá acesso à tecnologia",
+                texto: "Dar um celular para todos as pessoas mas, em troca, você nunca mais terá acesso à tecnologia?",
                 afirmacao: " Parabéns não ter mais acesso à tecnologia significaria ficar sem todas as ferramentas digitais que você usa no cotidiano, desde comunicação e entretenimento até ferramentas de trabalho e educação. Isso poderia ser um grande sacrifício pessoal em troca do benefício global.",
             },
         ]
